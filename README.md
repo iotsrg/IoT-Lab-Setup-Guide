@@ -1,4 +1,6 @@
-![](iot-lab-setup.png)
+<div style="text-align:center;">
+  <img src="iot-lab-setup.png" alt="IoT Lab Setup" width="50%">
+</div>
 
 # IoT-Security/Development-Lab-Setup
 - Enterprise  : For companies internally building their labs for security team
