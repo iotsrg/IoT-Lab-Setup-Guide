@@ -1,6 +1,6 @@
-<div style="text-align:center;">
+<p align="center">
   <img src="iot-lab-setup.png" alt="IoT Lab Setup" width="50%">
-</div>
+</p>
 
 # IoT-Security/Development-Lab-Setup
 - Enterprise  : For companies internally building their labs for security team
