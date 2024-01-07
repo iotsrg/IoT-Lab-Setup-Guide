@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="iot-lab-setup.png" alt="IoT Lab Setup" width="50%">
+  <img src="iot-lab-setup.png" alt="IoT Lab Setup" width="35%">
 </p>
 
 # IoT-Security/Development-Lab-Setup
