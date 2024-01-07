@@ -1,3 +1,5 @@
+![](iot-lab-setup.png)
+
 # IoT-Security/Development-Lab-Setup
 - Enterprise  : For companies internally building their labs for security team
 - Independent : For independent researchers and enthusiastic people purpose 
